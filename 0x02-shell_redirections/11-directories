@@ -1,2 +1,2 @@
-#!/bin/bash
-find -mindset 1 -type d | wc -l
+#!/in/bash
+find -mindepth 1 -type d | wc -l
